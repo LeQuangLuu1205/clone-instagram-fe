@@ -19,6 +19,7 @@ export const HomePage = () => {
           <HomeRight/>
         </div>
       </div>
+      
     </div>
   )
 }
